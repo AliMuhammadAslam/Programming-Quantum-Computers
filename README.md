@@ -14,12 +14,3 @@ https://colab.research.google.com/drive/1hn5lQ7Re90hAwCtb3zQgradkQ8qJjy2u?usp=sh
 
 Notebook 5 : Module Assessment - Google Collab Link:
 https://colab.research.google.com/drive/1joAbApY-7bt19mLGRD_bAtIOHFjotzG3?usp=sharing
-
-Milestone 1 (Notebook 1 and 2) - Video Link:
-https://drive.google.com/drive/folders/1M1IPymfZkFuFfj4Ex3wtp2XNVa8F9JZp?usp=sharing
-
-Milestone 2 (Notebook 3 and 4) - Video Link:
-https://drive.google.com/drive/folders/1omRDtaiRhHfvtLp3OsBKu9ZJFTA4tzfv?usp=sharing
-
-Milestone 3 (Final Project) - Video Link:
-https://drive.google.com/drive/folders/1nFgc3q60inM235z4ZJf0heGe3md2XbnO?usp=sharing
